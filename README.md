@@ -11,4 +11,4 @@ O projeto foi feito usando Python e PySimpleGui, usa algumas bibliotecas própri
 ## Fotos do Projeto 
 
 <div align="center">
-<img src='https://prnt.sc/WgLdzbcr1oaF' width=800px />
+<img src='https://raw.githubusercontent.com/viniciuscanutx/EmailTempPy/master/img/img1.png' width=800px />
